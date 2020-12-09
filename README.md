@@ -7,6 +7,11 @@ Most flight-related fatalities stem from a loss of â€œairplane state awareness.â
 ### Some plots..
 ![](https://github.com/shubhamk8597/Project---Predicting-Cognetive-States-of-Pilots-By-Analysing-Physiological-Data/blob/main/Images/4.png)
 
+## Refrence and Credits
+Stu Maitland - https://www.kaggle.com/stuartbman/introduction-to-physiological-data
+
+Theo Viel - https://www.kaggle.com/theoviel/starter-code-eda-and-lgbm-baseline
+
 ## Data Description
 In this dataset, you are provided with real physiological data from eighteen pilots who were subjected to various distracting events. The benchmark training set is comprised of a set of controlled experiments collected in a non-flight environment, outside of a flight simulator. The test set (abbreviated LOFT = Line Oriented Flight Training) consists of a full flight (take off, flight, and landing) in a flight simulator.
 
